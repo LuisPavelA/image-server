@@ -74,21 +74,18 @@ app.get('/', (req, res) => {
     names: file_names,
     sizes: file_sizes,
     website: config.website_address,
-    owner: config.owner
   })
 })
 
 app.get('/upload',(req, res) => {
   res.render("upload", {
     website: config.website_address,
-    owner: config.owner
   })
 })
 
 app.get('/delete',(req, res) => {
   res.render("delete", {
     website: config.website_address,
-    name: config.owner
   })
 })
 
