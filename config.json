@@ -1,5 +1,4 @@
 {
-  "owner": ""
-  "images_pa,th": "",
-  
+  "images_path": "./public/images/",
+  "website_address": "https://images.luispavel.me/"
 }
