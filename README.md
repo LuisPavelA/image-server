@@ -15,7 +15,3 @@ This is my submission for the #MadeWithReplit hackathon! I hope you like it!
 ## Self Hosting
 
 I do not recommend running this for actually storing images as it is not that good and might have a few bugs as I only made it in a few days.
-
-You can self host this by forking this repl and running it to install all of the packages. Then run `node setup.js` in the shell. Follow the steps to set up the server.
-
-I am not responsable for any misuses of this server. Do not use it to host any malicious images.
